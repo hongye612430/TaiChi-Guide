@@ -41,6 +41,11 @@
 [点击此处访问](https://taichi.cool/module/module_cn)
 
 
+## 常见问题及其解答
+
+[点击此处访问](https://www.taichi-app.com/fqa.html)
+
+
 ## 问题反馈
 
 若遇到 BUG 请去 GitHub 提 [Issue](https://github.com/taichi-framework/TaiChi/issues)。

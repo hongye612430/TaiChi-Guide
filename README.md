@@ -12,7 +12,7 @@
 
 ### 太极阴（免 Root）
 
-1. 在 [GitHub Releases](https://github.com/taichi-framework/TaiChi/releases/latest) 下载最新太极。
+1. 在 [GitHub Releases](https://github.com/taichi-framework/TaiChi/releases/latest) 或者[酷安](https://www.coolapk.com/apk/me.weishu.exp)下载最新太极。
 2. 点击下载好的 APK 安装包来进行安装。
 3. 开始体验吧！
 

@@ -34,6 +34,11 @@
 4. 打开 APP 观察效果。
 
 
+## 已支持的部分模块列表（更新可能会不及时）
+
+[点击此处访问](https://taichi.cool/module/module_cn)
+
+
 ## 问题反馈
 
 若遇到 BUG 请去 GitHub 提 [Issue](https://github.com/taichi-framework/TaiChi/issues)。

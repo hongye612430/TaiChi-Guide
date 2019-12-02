@@ -28,7 +28,22 @@
 
 ## 使用方法
 
-忙，暂时咕咕咕。
+1. 打开太极，添加你需要使用 Xposed 模块的 APP。
+2. 进入模块管理，勾选上你需要使用的 Xposed 模块。
+3. 强制停止你需要观察效果的 APP。
+4. 打开 APP 观察效果。
+
+
+## 问题反馈
+
+若遇到 BUG 请去 GitHub 提 [Issue](https://github.com/taichi-framework/TaiChi/issues)。
+
+注意选择合适的问题模板并且尽量描述清楚问题。
+
+
+## 模块适配
+
+请访问[模块适配页面](http://admin.taichi.cool)提交适配。
 
 
 ## 注
@@ -39,3 +54,4 @@
 ## 文档贡献者
 
 TH779（tongsj2333@gmail.com）
+

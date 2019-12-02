@@ -7,6 +7,8 @@
 
 简单来说，太极就是一个类 Xposed 框架，它能够加载 Xposed 模块、修改系统和 APP、拦截方法，执行 Hook 逻辑等。
 
+[点此来访问官方网站](https://www.taichi-app.com)
+
 
 ## 安装
 
